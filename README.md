@@ -2,13 +2,13 @@
 
 ![Data Warehouse Architecture](assets/data-warehouse-architecture.png)
 
-## Overview
+## Overview 🚀
 
 Designing a robust data warehouse using SQL Server, complete with automated ETL processes to ensure efficient query performance and actionable business insights. This portfolio project exemplifies industry best practices in data engineering and analytics.
 
 ---
 
-## Data Architecture
+## Data Architecture 🚀
 
 This project leverages the **Medallion Architecture** composed of three layers:
 - **Bronze Layer:**  
@@ -18,7 +18,7 @@ This project leverages the **Medallion Architecture** composed of three layers:
 
 ---
 
-## Project Overview
+## Project Overview 🚀
 
 The project comprises the following core components:
 
@@ -36,14 +36,14 @@ The project comprises the following core components:
 
 ---
 
-## Project Requirements
+## Project Requirements 🚀
 
 ### Building the Data Warehouse (Data Engineering)
 
-**Objective:**  
+**Objective:**  🚀
 Develop a state-of-the-art data warehouse using SQL Server to consolidate sales data, enabling robust analytical reporting and informed decision-making.
 
-**Specifications:**
+**Specifications:** 🚀
 - **Data Sources:**  
   Import data from two distinct source systems (ERP and CRM) provided as CSV files.
 - **Data Quality:**  
@@ -55,7 +55,7 @@ Develop a state-of-the-art data warehouse using SQL Server to consolidate sales 
 - **Documentation:**  
   Offer comprehensive documentation to support both business stakeholders and analytics teams.
 
-### BI: Analytics & Reporting (Data Analysis)
+### BI: Analytics & Reporting (Data Analysis) 🚀
 
 **Objective:**  
 Develop SQL-driven analytics to deliver detailed insights into:
@@ -67,7 +67,11 @@ These insights empower stakeholders with the key metrics needed for effective st
 
 ---
 
-## About Me
+## License 🚀
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+## About Me 🚀
 
 **Data Analyst | Aspiring Data Engineer & Data Scientist**
 
