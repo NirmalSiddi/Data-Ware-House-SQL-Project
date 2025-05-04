@@ -1,7 +1,5 @@
 # Data-Ware-House-SQL-Project 🚀
 
-![Data Warehouse Architecture](assets/data-warehouse-architecture.png)
-
 ## Overview 🚀
 
 Designing a robust data warehouse using SQL Server, complete with automated ETL processes to ensure efficient query performance and actionable business insights. This portfolio project exemplifies industry best practices in data engineering and analytics.
@@ -10,7 +8,8 @@ Designing a robust data warehouse using SQL Server, complete with automated ETL 
 
 ## Data Architecture 🚀
 
-docs/data_architecture.png
+![data_architecture](https://github.com/user-attachments/assets/9e79ed2e-729a-4a79-a9db-b28c70ae3447)
+
 
 This project leverages the **Medallion Architecture** composed of three layers:
 - **Bronze Layer:**  
