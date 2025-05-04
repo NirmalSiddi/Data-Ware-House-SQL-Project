@@ -10,6 +10,8 @@ Designing a robust data warehouse using SQL Server, complete with automated ETL 
 
 ## Data Architecture 🚀
 
+docs/data_architecture.png
+
 This project leverages the **Medallion Architecture** composed of three layers:
 - **Bronze Layer:**  
   Stores raw data as-is from the source systems by ingesting CSV files into the SQL Server database.
